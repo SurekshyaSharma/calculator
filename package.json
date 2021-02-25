@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator Frontend\r https://freshman.tech/calculator/\r CSS Grid:\r https://freshman.tech/css-grid-calculator/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurekshyaSharma/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SurekshyaSharma/calculator/issues"
+  },
+  "homepage": "https://github.com/SurekshyaSharma/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
